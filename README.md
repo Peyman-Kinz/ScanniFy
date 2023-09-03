@@ -1,1 +1,1 @@
-# ScanniFy
+ScanniFy
