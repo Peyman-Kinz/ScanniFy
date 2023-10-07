@@ -11,19 +11,9 @@ ScanniFy will start scanning the specified IP address for open ports.
 It will display a list of open ports as the scan progresses.
 Example Usage:
 bash
-Copy code
-$ python scannify.py
 
 
-Target IP: 192.168.1.1
 
-__________________________________________________
-Scanning Target: 192.168.1.1
-Scanning started at: 2023-09-19 15:30:00
-__________________________________________________
 
-[*] Port 22 is open
-[*] Port 80 is open
-[*] Port 443 is open
 
-...
+Run Python File: python main.py
